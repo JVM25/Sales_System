@@ -1,0 +1,16 @@
+C:\Users\USUARIO\Desktop\PROGRAMMING II\Sales_System\bin\Debug\net5.0\Sales_System.exe
+C:\Users\USUARIO\Desktop\PROGRAMMING II\Sales_System\bin\Debug\net5.0\Sales_System.deps.json
+C:\Users\USUARIO\Desktop\PROGRAMMING II\Sales_System\bin\Debug\net5.0\Sales_System.runtimeconfig.json
+C:\Users\USUARIO\Desktop\PROGRAMMING II\Sales_System\bin\Debug\net5.0\Sales_System.runtimeconfig.dev.json
+C:\Users\USUARIO\Desktop\PROGRAMMING II\Sales_System\bin\Debug\net5.0\Sales_System.dll
+C:\Users\USUARIO\Desktop\PROGRAMMING II\Sales_System\bin\Debug\net5.0\ref\Sales_System.dll
+C:\Users\USUARIO\Desktop\PROGRAMMING II\Sales_System\bin\Debug\net5.0\Sales_System.pdb
+C:\Users\USUARIO\Desktop\PROGRAMMING II\Sales_System\obj\Debug\net5.0\Sales_System.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\PROGRAMMING II\Sales_System\obj\Debug\net5.0\Sales_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\PROGRAMMING II\Sales_System\obj\Debug\net5.0\Sales_System.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\PROGRAMMING II\Sales_System\obj\Debug\net5.0\Sales_System.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\PROGRAMMING II\Sales_System\obj\Debug\net5.0\Sales_System.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\PROGRAMMING II\Sales_System\obj\Debug\net5.0\Sales_System.dll
+C:\Users\USUARIO\Desktop\PROGRAMMING II\Sales_System\obj\Debug\net5.0\ref\Sales_System.dll
+C:\Users\USUARIO\Desktop\PROGRAMMING II\Sales_System\obj\Debug\net5.0\Sales_System.pdb
+C:\Users\USUARIO\Desktop\PROGRAMMING II\Sales_System\obj\Debug\net5.0\Sales_System.genruntimeconfig.cache
